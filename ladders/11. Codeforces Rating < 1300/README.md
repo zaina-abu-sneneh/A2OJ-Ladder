@@ -14,12 +14,12 @@
 |<ul><li>- [x] Done</li></ul>|7|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
