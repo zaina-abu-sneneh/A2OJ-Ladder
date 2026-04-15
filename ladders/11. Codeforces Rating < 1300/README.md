@@ -51,18 +51,18 @@
 |<ul><li>- [ ] Done</li></ul>|44|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|45|[Bicycle Chain](http://codeforces.com/problemset/problem/215/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|51|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|54|[Little Elephant and Function](http://codeforces.com/problemset/problem/221/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|55|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|59|[Airport](http://codeforces.com/problemset/problem/218/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|60|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|61|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
